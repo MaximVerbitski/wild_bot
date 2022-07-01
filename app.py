@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 import csv
-#TOKEN = '5489671847:AAHiKOJZOHcLMF1zhaV_w7ZxbUniJOe5Fj0'
+TOKEN = '5489671847:AAHiKOJZOHcLMF1zhaV_w7ZxbUniJOe5Fj0'
 #TOKEN = '5576007213:AAF_6bhIYghrDiIIc7fAOuH6mMvvjhwjt4o' # мой тест
 #TOKEN = '5485790364:AAFYy221sHSiJiDlRVWiZTumHjsEQNRJPNs' # мой тестовый
 TO_CHAT_ID = '290065001'
